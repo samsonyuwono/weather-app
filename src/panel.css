@@ -12,7 +12,17 @@
   width: 100%;
 }
 
+.column img {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .temperature p {
   display: inline-block;
   margin: 5px;
+}
+
+.form {
+  position: absolute;
+  margin-top: 115px;
 }
